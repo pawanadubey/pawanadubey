@@ -1,5 +1,3 @@
-# pawanadubey.github.io
-
 ### Hi there 👋
 
 I am a DevOps engineer and I live in Mumbai, MH, India.
