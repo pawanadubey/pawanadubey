@@ -11,3 +11,5 @@ I am a DevOps engineer and I live in Mumbai, MH, India.
     <img src="https://img.shields.io/twitter/follow/pawanadubey.svg?style=social" alt="Twitter Follow" />
   </a>
 </p>
+
+Read my blogs -> <a href="https://pawanadubey.medium.com/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" alt="Medium" /> </a>
