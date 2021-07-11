@@ -12,4 +12,4 @@ I am a DevOps engineer and I live in Mumbai, MH, India.
   </a>
 </p>
 
-Read my blogs -> <a href="https://pawanadubey.medium.com/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" alt="Medium" /> </a>
+Read my blogs -> <a href="https://pawanadubey.medium.com/"> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" alt="Medium" /> </a>
