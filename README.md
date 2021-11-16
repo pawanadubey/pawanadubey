@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Pawan
 
 I am a DevOps <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/azuredevops.svg" /> engineer and I live in Mumbai, MH, India.
 
